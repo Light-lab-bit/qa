@@ -1,0 +1,10 @@
+{
+    "validUser": {
+        "username": "qwert",
+        "password": "qwertyuiop"
+    },
+    "invalidUser": {
+        "username": "wdfeg",
+        "password": "dsds"
+    }
+}

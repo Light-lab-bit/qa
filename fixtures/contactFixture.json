@@ -1,0 +1,17 @@
+{
+    "contact": {
+        "firstName": "ram",
+        "lastName": "dai",
+        "email": "ram@gmail.com",
+        "phone": "976543221",
+        "address": "Kathmandu",
+        "city": "Kathmandu",
+        "state": "Bagmati",
+        "country": "Nepal",
+        "zip": "44600",
+        "dateOfBirth": "1990-01-01"
+    },
+    "contactEdit": {
+        "firstName": "Sarthak"
+    }
+}
