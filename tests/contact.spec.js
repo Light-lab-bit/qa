@@ -118,8 +118,7 @@ test.describe('Contact test cases', () => {
         await contact.contactEdit(contactTestData.contactEdit.firstName);
         
         // Clean up - delete the created contact
-        if (contactId) {
-            await deleteEntity(contactId, '/contacts', accessToken, { request });
+        
         }
     });
 });
