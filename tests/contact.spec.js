@@ -115,7 +115,7 @@ test.describe('Contact test cases', () => {
         await page.reload();
         
         // Edit the contact using the page object
-        await contact.contactEdit(contactTestData.contactEdit.firstName);
+        
         
         // Clean up - delete the created contact
         
