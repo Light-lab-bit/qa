@@ -112,7 +112,7 @@ test.describe('Contact test cases', () => {
         const contactId = await createEntity(testContactData, accessToken, '/contacts', { request });
         
         // Reload page to see the new contact
-        await page.reload();
+        
         
         // Edit the contact using the page object
         
